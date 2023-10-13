@@ -9,18 +9,19 @@ body{
     background-color: var(--background)
 }
 
+
+
+header{
+    
+    background-color: var(--topgreen);
+}
+
 header img {
     
-        width: 105px;
+        width: 10px;
         height: 151px;
         position: absolute;
         top: 7px;
         left: 6px;
         
 }
-header{
-    
-    background-color: var(--topgreen);
-}
-
-
