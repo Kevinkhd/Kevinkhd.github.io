@@ -9,12 +9,6 @@ body{
     background-color: var(--background)
 }
 
-header{
-    
-    background-color: var(--topgreen);
-}
-
-
 header img {
     
         width: 105px;
@@ -22,5 +16,11 @@ header img {
         position: absolute;
         top: 7px;
         left: 6px;
-        background-color: var(--topgreen);
+        
 }
+header{
+    
+    background-color: var(--topgreen);
+}
+
+
