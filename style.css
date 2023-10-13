@@ -1,8 +1,8 @@
 :root  {
 
     --background: #FFD6D6;
-    --topgreen: fill: rgba(10, 76, 4, 0.50);
-    --homepagetekst: fill: rgba(10, 76, 4, 0.50);
+    --topgreen: rgba(10, 76, 4, 0.50);
+    --homepagetekst: rgba(10, 76, 4, 0.50);
 }
 
 body{
@@ -14,14 +14,13 @@ body{
 header{
     
     background-color: var(--topgreen);
-    position: relative;
+    
 }
 
 header img {
     
         width: 90px;
-        height: 130px;
-        position: absolute;
+        height: 130px;       
         top: 7px;
         left: 6px;
         
