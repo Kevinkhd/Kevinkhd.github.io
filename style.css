@@ -3,11 +3,14 @@
     --background: #FFD6D6;
     --topgreen: rgba(10, 76, 4, 0.50);
     --homepagetekst: rgba(10, 76, 4, 0.50);
+    
 }
 
 body{
     background-color: var(--background)
 }
+
+
 
 
 
