@@ -1,8 +1,8 @@
 :root  {
 
     --background: #FFD6D6;
-    --topgreen: fill: rgba(10, 76, 4, 0.50);
-    --homepagetekst: fill: rgba(10, 76, 4, 0.50);
+    --topgreen:  rgba(10, 76, 4, 0.50);
+    --homepagetekst:  rgba(10, 76, 4, 0.50);
 }
 
 body{
