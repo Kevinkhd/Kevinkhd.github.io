@@ -1,8 +1,11 @@
 body {
     background: #FFD6D6;
-}
-
-svg {
     
 }
 
+svg {
+background: url(<LogoWeb.jpg>), lightgray 50% / cover no-repeat;
+width: 105px;
+height: 151px;
+flex-shrink: 0;
+}
