@@ -9,3 +9,6 @@ body{
     background-color: var(--background)
 }
 
+header{
+    background-color: var(--topgreen);
+}
